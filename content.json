@@ -42,5 +42,84 @@
       "density": "loose"
     }
   },
-  "projects": []
+  "projects": [
+    {
+      "id": "proj-1777038637479",
+      "title": "COSTA UNLOCK // BRAND SYSTEM",
+      "category": "branding",
+      "frame": "Full Branding · Tech Services · 2019",
+      "description": "Costa Unlock is a specialized software & device unlocking service — built with a complete visual identity that reflects speed, tech expertise, and digital precision. The brand system follows a dark tech aesthetic with Cyberpunk undertones, designed to perform across Telegram channels, social media, and all digital touchpoints. This is branding that earns trust in a high-stakes, fast-moving market.\n                            \nMost designers deliver a logo. Maybe a color palette. Maybe some mockups if you're lucky. This project delivers something different: a complete visual identity system for [Brand Name], explored across six visual dimensions — 3D space, Cyberpunk atmosphere, Marvel-level cinematic power, GTA street energy, motion that stops the scroll, and a storytelling framework that makes the brand feel like it's been here forever. This is not branding. This is world-building.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041022/hqryhtvn09vmkr2rdslx.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777041041/fate1nprpzvlmvfmnxkb.mp4"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041270/xabafmx7d5votoykycai.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041342/jjvvuemieuzufzevm4oe.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041503/shjpks0kngtvnb7s6vxe.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041506/eijpdr5n7hmwioxwre0f.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041510/d2bynzmaddv1u7cdqova.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041514/txmnkrh23ca1izqdbicf.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041518/h6vsql4n6szdferhxynz.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041522/qamkkrn5ihsge3rdcpga.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042159/rhqtqesxxnjyrio1mptj.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042222/mk57la6zab61lp9dgggy.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042241/l2scsyay9xftm0ihicku.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042287/epqxbwmlfqlvt0jqdobg.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042305/yvfc7utmyihzn6jkyatp.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777042324/cptvhysdzzuhesd8lg1y.jpg"
+        }
+      ],
+      "year": "2019",
+      "role": "Brand Owner · Visual Identity Designer · Creative Director · Social Media Design",
+      "client": "COSTA",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777041006/w4uwjzqzpfh8jzrbyr43.jpg"
+    }
+  ]
 }
