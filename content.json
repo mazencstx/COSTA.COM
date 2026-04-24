@@ -44,6 +44,108 @@
   },
   "projects": [
     {
+      "id": "proj-1777055238575",
+      "title": "COSTA UNLOCK character designed // BRAND SYSTEM",
+      "category": "branding",
+      "frame": "Character Design & · AI Art Direction · 2026",
+      "description": "A custom character designed to serve as the brand's mascot — a visual personality capable of representing the brand across all media and situations. Delivered in four distinct poses covering all social media needs, with a 3D version and motion animation for a memorable brand intro.\n\n",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777055752/nhrb2uejljj83g7ebv1m.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777055754/h6up6napdxpr8k41itfz.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056037/sxifcpye1n88vd6qf460.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056050/skosh8fdw32jhbwlxj7r.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056056/jysfuuprcjjlq3rs76c2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056066/eisryfryuey27a4hwwg8.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056075/qj455jagrmlmswjb2jug.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056084/bwlpdpc8zqoj5vhzowzm.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056091/dmj83oa3odrhbrziyspz.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056100/nyi3er1iapwvsq8wq5dh.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056109/pm59cfxibesgbwwovigu.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056115/bh9jqgwyzvndhplpz7bb.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056123/x5wcbenqqskymrqizejd.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056125/mi4uvki654mvkhocqzbv.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056127/vyvwgmpfkvyg4z0iatna.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056128/nwapldqwiruvucmjtixr.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056494/c3ftjpr1zmur1xa0ouyk.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056504/fshbb0ah9f7knnocqbwl.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056518/lyfyluxq9upsjynw51kc.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056529/gehqp7a2c9zca6nb9m6b.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056548/nmgvcdjarz54zxqstz8g.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056561/kivowhu0uzjds8wswpzq.png"
+        }
+      ],
+      "year": "2025",
+      "client": "COSTA",
+      "role": "Brand Identity Design · Character Art · Motion Direction · AI Art Direction",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777056703/jjw3tfhrh5cwfihsgnrn.png"
+    },
+    {
       "id": "proj-1777054299764",
       "title": "COSTA UNLOCK 6 // BRAND SYSTEM",
       "category": "branding",
