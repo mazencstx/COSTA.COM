@@ -44,6 +44,81 @@
   },
   "projects": [
     {
+      "id": "proj-1777062064431",
+      "title": "MAZEN COSTA // COSTA STUDIO",
+      "category": "branding",
+      "frame": "Visual Identity & Motion · 2026",
+      "description": "This is what your brand looks like when it has gravity. A full 3D visualization system — mockups, environments, and compositions designed to make every presentation feel like a product launch, not a portfolio slide.\n\n",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063378/m7qjmuh7cpyc3hojky2n.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063623/ylpttcacrtf7osnhz3cz.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063625/oqjdcbmqnpv7ztl4zmia.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063628/gpzzp1uunj8agzopmbpu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063631/vnsgwoujgvyp7dxrjdzf.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063634/t7tkic60wswgoxej1krb.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063638/hsvn4igik02grd865fzl.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063641/zrgijmw0h21yrcjmdosi.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063645/q2ncyoumnfhlkfwegteq.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063691/dnwivcxmp0bdusshlfk1.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063695/pygfgu4iyqxzzwbkrbmo.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063699/hvtqxtiuzpuie70ypkpm.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063705/qz7ol77gosrt1x5urlhh.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063752/pdmxwzmhexmvjdjssrjn.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063775/lfwdmdgieuw0tgtghrop.jpg"
+        }
+      ],
+      "year": "2026",
+      "client": "COSTA",
+      "role": "Brand Identity Design · Character Art · Motion Direction",
+      "featured": true,
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777063196/xv8sxkf8rkuydbczpr9x.jpg"
+    },
+    {
       "id": "proj-1777060510209",
       "title": "COSTA UNLOCK Marvel-Style Character // AI Art Direction",
       "category": "branding",
