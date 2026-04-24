@@ -1,0 +1,25 @@
+{
+  "site": {
+    "hero": {
+      "eyebrow": "Costa Studio · Cairo · 2026",
+      "titleRed": "MAZEN COSTA",
+      "titleWhite": "PORTFOLIO",
+      "role": "Senior Full-Stack Visual Artist & Software Engineer · 10+ Years",
+      "image": "hero.png",
+      "tags": [
+        { "label": "Cyberpunk", "red": true },
+        { "label": "Marvel Style", "red": true },
+        { "label": "GTA Style", "red": true },
+        { "label": "Comic Art", "red": false },
+        { "label": "3D & Motion", "red": false },
+        { "label": "AI-Augmented", "red": false },
+        { "label": "Brand Identity", "red": false }
+      ]
+    },
+    "theme": {
+      "accent": "#e8162a",
+      "density": "loose"
+    }
+  },
+  "projects": []
+}
