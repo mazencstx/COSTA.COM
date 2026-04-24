@@ -5,36 +5,15 @@
       "titleRed": "MAZEN COSTA",
       "titleWhite": "PORTFOLIO",
       "role": "Senior Full-Stack Visual Artist & Software Engineer · 10+ Years",
-      "image": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1776994804/uveaxu6nqubsfba7ucop.jpg",
+      "image": "hero.png",
       "tags": [
-        {
-          "label": "Cyberpunk",
-          "red": true
-        },
-        {
-          "label": "Marvel Style",
-          "red": true
-        },
-        {
-          "label": "GTA Style",
-          "red": true
-        },
-        {
-          "label": "Comic Art",
-          "red": false
-        },
-        {
-          "label": "3D & Motion",
-          "red": false
-        },
-        {
-          "label": "AI-Augmented",
-          "red": false
-        },
-        {
-          "label": "Brand Identity",
-          "red": false
-        }
+        { "label": "Cyberpunk", "red": true },
+        { "label": "Marvel Style", "red": true },
+        { "label": "GTA Style", "red": true },
+        { "label": "Comic Art", "red": false },
+        { "label": "3D & Motion", "red": false },
+        { "label": "AI-Augmented", "red": false },
+        { "label": "Brand Identity", "red": false }
       ]
     },
     "theme": {
@@ -42,59 +21,5 @@
       "density": "loose"
     }
   },
-  "projects": [
-    {
-      "id": "proj-1776994756184",
-      "title": "AHMED",
-      "category": "design",
-      "frame": "",
-      "description": "COSTA BEH",
-      "tags": [],
-      "media": [
-        {
-          "type": "image",
-          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1776994789/m5joztefxmbvemtunpen.jpg"
-        }
-      ],
-      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1776994784/sjg2mxzop5imxlp2i9zq.jpg"
-    },
-    {
-      "id": "proj-1776994616517",
-      "title": "NANOCOSTA",
-      "category": "design",
-      "frame": "BRANDING",
-      "description": "COSTA NANO BANANA BRAND ",
-      "tags": [],
-      "media": [
-        {
-          "type": "image",
-          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1776994651/gcajaevpcvsreekrag2h.jpg"
-        },
-        {
-          "type": "image",
-          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1776994655/osx6rl9biffnvv2yin66.jpg"
-        },
-        {
-          "type": "image",
-          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1776994659/jrwn8lrjmr6jwihcu65i.jpg"
-        },
-        {
-          "type": "image",
-          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1776994664/umakvfytfyigsklzxpdd.jpg"
-        },
-        {
-          "type": "image",
-          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1776994669/ehvipafaku3o9frr5fwd.jpg"
-        },
-        {
-          "type": "image",
-          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1776994675/mqzchyel1ysqdc6a3ngq.jpg"
-        }
-      ],
-      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1776994630/emz6q6lk5dycs3eet91r.jpg",
-      "year": "2026",
-      "client": "COSTA",
-      "featured": true
-    }
-  ]
+  "projects": []
 }
