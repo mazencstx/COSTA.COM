@@ -44,8 +44,38 @@
   },
   "projects": [
     {
+      "id": "proj-1777578921178",
+      "title": "COSTA UNLOCKER // MOTION CAMPAIGN",
+      "category": "motion",
+      "frame": "Motion Graphics · 2026",
+      "description": "Technology meets transcendence in this high-octane visual journey. We followed the transformation of a creator into a digital powerhouse, blending low-poly geometry with high-fidelity cinematic lighting. This project explores the friction between the physical and the virtual, utilizing a kinetic energy inspired by modern animation to personify software capability. It’s more than a process—it’s an awakening. Every frame is engineered to feel like a high-stakes moment in a digital odyssey.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777580768/ftnrsjjc7coytx8ckkep.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777580794/i8dm4u27a0jckj0d4yrn.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777581166/vq5vpsfbgodzv844pjwk.mp4"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777581235/tr9q2sy3auo9eh6y7dbt.jpg"
+        }
+      ],
+      "client": "Personal Project",
+      "year": "2026",
+      "role": "Creative Director · Motion Artist · AI Art Director",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777580527/yzpvs9nrarksgvcjqd2m.jpg"
+    },
+    {
       "id": "proj-1777062064431",
-      "title": "MAZEN COSTA // COSTA STUDIO",
+      "title": "MAZEN COSTA // BRAND SYSTEM",
       "category": "branding",
       "frame": "Visual Identity & Motion · 2026",
       "description": "This is what your brand looks like when it has gravity. A full 3D visualization system — mockups, environments, and compositions designed to make every presentation feel like a product launch, not a portfolio slide.\n\n",
