@@ -44,6 +44,70 @@
   },
   "projects": [
     {
+      "id": "proj-1777590936092",
+      "title": "New Project",
+      "category": "design",
+      "frame": "",
+      "description": "",
+      "tags": [],
+      "media": []
+    },
+    {
+      "id": "proj-1777589915059",
+      "title": "GRAND THEFT AUTO VI STYLE // ILLUSTRATION SERIES",
+      "category": "illustration",
+      "frame": "GTA STYLE · 2026",
+      "description": "High-octane visual storytelling meets the sun-drenched grit of Vice City. This series reclaims the iconic Grand Theft Auto aesthetic, injecting a sharp, cinematic edge into character-driven environments. By blending hyper-saturated neon palettes with aggressive linework, the project captures the friction between luxury and the underground. Every frame is built to pulse with the kinetic energy of a mission start, bridging the gap between raw photography and legendary gaming lore. The city is yours.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590405/icvgyfylqxzt4rv4lm1s.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590417/llrneu8uqk3ylrhzxhro.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590422/frqkn908sp4yfommt6nw.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590425/q0710raecbauzjxnuls4.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590429/b2rswdr1booiynyuaizo.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590450/ewdnsutq2exvch7nunta.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590824/mhqphq3bvbsvhjxl9ijm.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590852/q7shhzjlpljt5t9mqnci.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590861/wcptfpuyrhthlpbrj48t.png"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590871/vdcw4ims05nrsjud972a.png"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · Illustrator · Character Designer · AI Art Director · GTA STYLE",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777590385/miisac7de3j3jqppudbs.jpg",
+      "featured": false
+    },
+    {
       "id": "proj-1777589020527",
       "title": "MARVEL COMIC // VINTAGE COVER REIMAGINATION",
       "category": "illustration",
@@ -58,10 +122,6 @@
         {
           "type": "image",
           "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589490/juefgvta9a1giyvwcmen.jpg"
-        },
-        {
-          "type": "image",
-          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589499/vf2o0vpiyhkrzfpjmm5g.jpg"
         },
         {
           "type": "image",
@@ -113,7 +173,7 @@
       "id": "proj-1777585589394",
       "title": "CURRENT REALITY // CYBER-MULTIVERSE DESCENT",
       "category": "illustration",
-      "frame": "Character Design · 2026",
+      "frame": "Cyberpunk Spider-Verse · 2026",
       "description": "This series documents the total digital overwrite of the present day. We took raw, everyday captures and forced them through a multiversal filter, collapsing the distance between our current reality and a high-octane, neon-drenched future. By injecting aggressive comic-book kinetics and rain-slicked cyberpunk aesthetics, we transformed the mundane into a cinematic narrative. It’s an exploration of the self, re-rendered for a world where the grid is the only truth. Welcome to the future.",
       "tags": [],
       "media": [
@@ -269,13 +329,14 @@
       "year": "2026",
       "client": "Personal Project",
       "role": "Creative Director · Lead Illustrator · Character Designer · AI Art Director",
-      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777587368/eopsw8xn8lqrhyaooamk.jpg"
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777587368/eopsw8xn8lqrhyaooamk.jpg",
+      "featured": false
     },
     {
       "id": "proj-1777584997747",
       "title": "NEO-SEOUL CHRONICLES // Cyberpunk Spider-Verse",
       "category": "illustration",
-      "frame": "Character Design · 2026",
+      "frame": "Cyberpunk Spider-Verse · 2026",
       "description": "Digital focus meets rain-slicked grit in this exploration of creative transcendence. This narrative sequence bridges the gap between raw, analog sketches and advanced biometric interfaces, all set within a neon-drenched urban sprawl. By utilizing aggressive halftone textures and high-octane kinetic energy, the project visualizes the moment an artist’s vision becomes a functional, high-tech reality. It is a cinematic tribute to the relentless grind of the modern full-stack creative. The system is live.",
       "tags": [],
       "media": [
@@ -365,7 +426,7 @@
       "id": "proj-1777584257041",
       "title": "NEO-SEOUL DISTRICT // Cyberpunk Spider-Verse",
       "category": "illustration",
-      "frame": "Character Design · 2026",
+      "frame": "Cyberpunk Spider-Verse · 2026",
       "description": "High-stakes digital focus meets a rain-slicked cyberpunk aesthetic. This series reimagines a real-world creative workflow within the neon-drenched grid of a futuristic Neo-Seoul. Utilizing aggressive halftone patterns and cinematic \"Spider-Verse\" kinetic energy, the project visualizes the intensity of software engineering as a superhero narrative. Every frame pulses with electricity, bridging the gap between raw photography and stylized comic-book maximalism. This is where technical precision meets high-octane visual storytelling. The system is live.",
       "tags": [],
       "media": [
