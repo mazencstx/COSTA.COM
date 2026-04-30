@@ -44,6 +44,72 @@
   },
   "projects": [
     {
+      "id": "proj-1777589020527",
+      "title": "MARVEL COMIC // VINTAGE COVER REIMAGINATION",
+      "category": "illustration",
+      "frame": "Comic Illustration · 2026",
+      "description": "This series deconstructs personal identity and reassembles it through the lens of Bronze Age Marvel aesthetics. We explored the intersection of heritage branding and pop culture narrative, utilizing period-accurate halftone patterns, weathered paper textures, and aggressive action-oriented typography. Each frame lives in a curated multiverse where everyday technical tasks are elevated to heroic exploits. It’s an exercise in nostalgic storytelling, blending 1970s Marvel-inspired artistry with modern digital identity. The legacy is re-inked.",
+      "tags": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589482/us8hy6zpfzztzjmo0on6.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589490/juefgvta9a1giyvwcmen.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589499/vf2o0vpiyhkrzfpjmm5g.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589508/usfrshnptagm8adl8oal.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589517/twpctvusamrakfmlqtst.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589524/t7gdk8jtsej0qdzuroqg.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589531/aarqlsyeztookzvplyoy.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589539/i5sqozcnbmhkfli1hpaj.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589543/w6vvl8vwbzfj4nqxsise.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589550/squkcl1g55wq1jyc45iu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589556/eupfoy6carbwzd0j7he2.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589561/e0hegctby7ywptkyr4jh.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589567/yce2ms8x8atqvsycb8af.jpg"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · Marvel Artist · Illustrator · AI Art Director",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777589353/cyfzzdxjwlwdfrz3u14o.jpg"
+    },
+    {
       "id": "proj-1777585589394",
       "title": "CURRENT REALITY // CYBER-MULTIVERSE DESCENT",
       "category": "illustration",
