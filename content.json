@@ -44,13 +44,84 @@
   },
   "projects": [
     {
-      "id": "proj-1777590936092",
-      "title": "New Project",
-      "category": "design",
-      "frame": "",
-      "description": "",
+      "id": "proj-1777593594022",
+      "title": "GLITCH-TECH:THE SHADOW INVASION // Storytelling Spider-Verse",
+      "category": "motion",
+      "frame": "Storytelling Spider-Verse · 2026",
+      "description": "Late nights at the local coffee shop take a lethal turn when a routine system update fractures reality. This project explores the transition from the mundane to the digital front-line, where a laptop becomes a gateway to a neon-drenched conflict. Through high-octane comic aesthetics and cinematic paneling, we follow a developer pulled into a \"Cyber-Shadow Invasion,\" forcing an immediate evolution from coder to combat-ready guardian. The boundary between hardware and hero has officially dissolved.",
       "tags": [],
-      "media": []
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594561/ejregfk9luesyiutebcd.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594581/ehdkpotomnckaoewtvi9.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594599/uzsyljj5at0go7637nmd.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594603/ajfootbgnmlwv7rylrrr.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594608/tpuoijxanbcetnxdpymu.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777595098/wktudrrcko97iyeij4zn.mp4"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777595158/vhp5azl8gl8jiwoztax4.mp4"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777595232/iltstzmd0kdstwh2mpkq.mp4"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777595297/qxgfqqw2c6dqvdla9yip.mp4"
+        }
+      ],
+      "year": "2026",
+      "role": "Creative Director · Cyberpunk Spider-Verse · Illustrator · AI Art Director · Storyboard Artist",
+      "client": "Personal Project",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777594453/nlrd9dbewf1gvkvr6pjk.jpg"
+    },
+    {
+      "id": "proj-1777590936092",
+      "title": "COSTA MULTIVERSE // Cyberpunk Spider-Verse",
+      "category": "motion",
+      "frame": "Cyberpunk Spider-Verse · 2026",
+      "description": "Digital life meets multiversal warfare in this high-contrast character study. This project explores the friction between a vibrant, low-poly superhero aesthetic and the gritty underworld of a neon-drenched metropolis. By utilizing explosive comic-book visuals and a kinetic \"Spider-Verse\" energy, we personify the evolution of a digital creator into a cinematic powerhouse. Every frame is engineered to feel like a high-stakes moment in a digital odyssey where identity is the ultimate weapon. The system is live.",
+      "tags": [],
+      "media": [
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/video/upload/v1777593536/hdujjqxwrkt1ctmlpy7d.mp4"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777593542/wloqbdo8bvwwag9qfctu.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777593547/nz9zhiw4qbp7tmwa6xv3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777593553/hvfrlxgm15evxorgrcz5.jpg"
+        }
+      ],
+      "year": "2026",
+      "client": "Personal Project",
+      "role": "Creative Director · Cyberpunk Spider-Verse · Illustrator · AI Art Director",
+      "cover": "https://res.cloudinary.com/dnh6j0j0a/image/upload/v1777593478/dfa0qtfqc0kr4qmjhtlq.jpg"
     },
     {
       "id": "proj-1777589915059",
